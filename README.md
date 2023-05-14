@@ -8,4 +8,4 @@ This repository contains the code for the Implementation of the research paper "
 
 ## Video Demontration Link
 
-![video](https://drive.google.com/file/d/1etRhGLd8AG14NH3rFrf8woevLNsCMYlG/view?usp=share_link)
+[Video Demo by [Ayush Abrol](https://github.com/ayushabrol13/)](https://drive.google.com/file/d/1etRhGLd8AG14NH3rFrf8woevLNsCMYlG/view?usp=share_link)
